@@ -90,6 +90,9 @@ A: 目前仅支持 Windows 10/11 系统。
 
 ### Q: 如何获取技术支持？
 A: 如有问题，请联系技术支持。
+![8aec1caa9f9e684c84c71a33ec2dfe63](https://github.com/user-attachments/assets/aae2a0f8-fbf0-4da4-b4f1-46a4b6b63a66)
+
+
 
 ## 📄 许可证
 
